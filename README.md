@@ -1,6 +1,9 @@
 # MiAI_RockScissorLeaf
 Demo of RockScissorLeaf game with Mediapipe and OpenCV
 
+
+Edit by eggtgg
+
  Video link:  https://youtu.be/XUtfK5Gw5uk
 
 #MìAI <br>
